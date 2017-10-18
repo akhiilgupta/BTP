@@ -1,0 +1,68 @@
+        roll convergence results
+  
+  
+ speed =   16.000000000000000      knots Fn=  0.26283004416567352       heading =   180.00000000000000      deg.
+  
+    we    iter    theta1     theta2
+  (rad/s)         (deg)      (deg)
+ 39.4183     1      0.00      0.00
+  radiation damping  =  -5.2491331871407994      % of critical damping
+  viscous damping    =   8.5597244063261559      % of critical damping
+  total roll damping =   3.3105912191853557      % of critical damping
+  
+    we    iter    theta1     theta2
+  (rad/s)         (deg)      (deg)
+ 18.9155     1      0.00      0.00
+  radiation damping  =  -1.3135034397293754      % of critical damping
+  viscous damping    =   8.6316165507440239      % of critical damping
+  total roll damping =   7.3181131110146485      % of critical damping
+  
+    we    iter    theta1     theta2
+  (rad/s)         (deg)      (deg)
+ 11.4254     1      0.00      0.00
+  radiation damping  =  0.16002853475342541      % of critical damping
+  viscous damping    =   8.6482616781884616      % of critical damping
+  total roll damping =   8.8082902129418876      % of critical damping
+  
+    we    iter    theta1     theta2
+  (rad/s)         (deg)      (deg)
+  7.8149     1      0.00      0.00
+  radiation damping  =  0.87744412430427443      % of critical damping
+  viscous damping    =   8.6517865354123504      % of critical damping
+  total roll damping =   9.5292306597166245      % of critical damping
+  
+    we    iter    theta1     theta2
+  (rad/s)         (deg)      (deg)
+  5.7761     1      0.00      0.01
+  radiation damping  =   1.4017849786573908      % of critical damping
+  viscous damping    =   8.6528846263327015      % of critical damping
+  total roll damping =   10.054669604990094      % of critical damping
+  
+    we    iter    theta1     theta2
+  (rad/s)         (deg)      (deg)
+  4.5001     1      0.00      0.01
+  radiation damping  =   2.4822619876312291      % of critical damping
+  viscous damping    =   8.6563056087907384      % of critical damping
+  total roll damping =   11.138567596421970      % of critical damping
+  
+    we    iter    theta1     theta2
+  (rad/s)         (deg)      (deg)
+  3.6417     1      0.00      0.01
+  radiation damping  =   3.6209111897236426      % of critical damping
+  viscous damping    =   8.6561143476150839      % of critical damping
+  total roll damping =   12.277025537338726      % of critical damping
+  
+    we    iter    theta1     theta2
+  (rad/s)         (deg)      (deg)
+  3.0326     1      0.00      0.01
+  radiation damping  =   4.7224505516532904      % of critical damping
+  viscous damping    =   8.6404329317064406      % of critical damping
+  total roll damping =   13.362883483359731      % of critical damping
+  
+    we    iter    theta1     theta2
+  (rad/s)         (deg)      (deg)
+  2.5820     1      0.00      0.00
+  radiation damping  =   5.1326079379546039      % of critical damping
+  viscous damping    =   8.6180355888096152      % of critical damping
+  total roll damping =   13.750643526764216      % of critical damping
+  
