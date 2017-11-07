@@ -49,7 +49,7 @@ c	mxv = max. no. of velocities
 
 	dimension tmas(6,6),rest(6,6)
 
-	open(1,file='input_geometry',status="unknown")
+	open(1,file='input_folder/new_input_geometry',status="unknown")
 	open(2,file='out2')
 	open(3,file='out3')
 c	open(4,file='out4')
